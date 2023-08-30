@@ -45,7 +45,7 @@ public class GameService {
 
     public GameResponse getGameStats() {
         GameResponse gameResponse = new GameResponse();
-        gameResponse.setTotalGames(this.totalGames);
+        gameResponse.setTotalGamesResult(this.totalGames);
         gameResponse.setWinsWithoutSwitching(this.winsWithoutSwitching);
         gameResponse.setWinsWithSwitching(this.winsWithSwitching);
         return gameResponse;
