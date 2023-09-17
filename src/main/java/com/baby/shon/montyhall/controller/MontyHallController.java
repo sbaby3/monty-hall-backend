@@ -1,7 +1,7 @@
-package com.baby.shon.controller;
+package com.baby.shon.montyhall.controller;
 
-import com.baby.shon.service.GameService;
-import com.baby.shon.vo.GameResponse;
+import com.baby.shon.montyhall.vo.GameResponse;
+import com.baby.shon.montyhall.service.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

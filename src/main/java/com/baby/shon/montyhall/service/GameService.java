@@ -1,6 +1,6 @@
-package com.baby.shon.service;
+package com.baby.shon.montyhall.service;
 
-import com.baby.shon.vo.GameResponse;
+import com.baby.shon.montyhall.vo.GameResponse;
 import org.springframework.stereotype.Service;
 
 import java.util.Random;

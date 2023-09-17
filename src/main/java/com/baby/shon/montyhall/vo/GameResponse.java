@@ -1,4 +1,4 @@
-package com.baby.shon.vo;
+package com.baby.shon.montyhall.vo;
 
 import lombok.Data;
 
